@@ -160,22 +160,22 @@ function Login() {
                 <br />
               </span>
               <br />
-              Special thanks to all of the people who believed that Clover was possible and who made it possible.
+              Special thanks to all of the people who believed that m-teams was possible and who made it possible.
               <br />
               <br />
               This Login / Register page uses
               {' '}
-              <a href="https://github.com/zzseba78/Kick-Off" target="_blank" rel="noopener noreferrer">
-                Kick-Off
+              <a href="https://github.com/kemalcan-dev/m-teams" target="_blank" rel="noopener noreferrer">
+                m-teams
               </a>
               {' '}
-              by zzseba78
+              by kemalcan-dev
               <br />
               <br />
               The default background image is from
               {' '}
               <a href="https://picsum.photos/" target="_blank" rel="noopener noreferrer">
-                Picsum Photos
+                - Photos
               </a>
               <br />
               <br />

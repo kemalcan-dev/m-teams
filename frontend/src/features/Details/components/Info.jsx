@@ -15,11 +15,11 @@ function Info() {
         <div className="text">
           Welcome to
           {' '}
-          {Config.appName || 'Clover'}
+          {Config.appName || 'm-teams'}
           !
           <br />
           <br />
-          {Config.appName || 'Clover'}
+          {Config.appName || 'm-teams'}
           {' '}
           is a messaging app that enables real-time messaging, audio and video calls,
           groups and conferencing.
@@ -28,7 +28,7 @@ function Info() {
       <div className="text">
         Copyright &copy;
         {' '}
-        {Config.brand || 'Honeyside'}
+        {Config.brand || 'm-teams'}
         <br />
         v
         {version}

@@ -22,9 +22,9 @@ function TopBar() {
   const setVideo = useGlobal('video')[1];
   const setCallDirection = useGlobal('callDirection')[1];
 
-  const honeyside = () => window.open('https://www.honeyside.it', '_blank');
-  const codeCanyon = () => window.open(
-    'https://codecanyon.net/item/clover-realtime-messaging-audio-video-conferencing-web-app-nodejs-react-webrtc-socketio/25737452',
+  const mteam = () => window.open('https://www.m-teams.me', '_blank');
+  const mteamOp = () => window.open(
+    '//',
     '_blank',
   );
 
@@ -131,16 +131,16 @@ function TopBar() {
             </div>
             {Config.demo && <div className="divider" />}
             {Config.demo && (
-              <div className="link" onClick={honeyside}>
-                Honeyside
+              <div className="link" onClick={mteam}>
+                mteam
                 <div className="icon">
                   <FiExternalLink />
                 </div>
               </div>
             )}
             {Config.demo && (
-              <div className="link" onClick={codeCanyon}>
-                CodeCanyon
+              <div className="link" onClick={mteamOp}>
+                mteamOp
                 <div className="icon">
                   <FiExternalLink />
                 </div>

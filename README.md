@@ -1,6 +1,6 @@
 # M-teams - Messaging & Conferencing
 
-Clover is an instant messaging & conferencing web app with audio / video capabilities, both in one-to-one calls and in group calls with multiple remote peers! 
+M-teams is an instant messaging & conferencing web app with audio / video capabilities, both in one-to-one calls and in group calls with multiple remote peers! 
 
 ## M-teams Support
 Welcome to the M-teams experience! You can access the full [M-teams documentation online](https://www.M-teams.me/tag/m-tems/) and the [M-teams Support Forum](https://forum.m-tems.me) is here for you. Also take a look at [our website](https://www.m-teams.me), that's where you'll find updates and plans on all our activities and products.

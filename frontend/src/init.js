@@ -11,9 +11,9 @@ const init = async () => {
     e.preventDefault();
   });
 
-  if (localStorage.getItem('app') !== 'Clover 2.x.x') {
+  if (localStorage.getItem('app') !== 'm-teams 2.x.x') {
     localStorage.clear();
-    localStorage.setItem('app', 'Clover 2.x.x');
+    localStorage.setItem('app', 'm-teams 2.x.x');
   }
 
   let token = localStorage.getItem('token');

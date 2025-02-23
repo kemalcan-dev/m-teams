@@ -2,9 +2,9 @@ import './TopBar.sass';
 import { FiArrowLeft, FiMoreHorizontal, FiExternalLink } from 'react-icons/fi';
 
 function TopBar({ back }) {
-  const honeyside = () => window.open('https://www.honeyside.it', '_blank');
-  const codeCanyon = () => window.open(
-    'https://codecanyon.net/item/clover-realtime-messaging-audio-video-conferencing-web-app-nodejs-react-webrtc-socketio/25737452',
+  const mteams = () => window.open('https://www.m-tems.me', '_blank');
+  const mteamsOp = () => window.open(
+    '//',
     '_blank',
   );
 
@@ -21,14 +21,14 @@ function TopBar({ back }) {
             <FiMoreHorizontal />
           </div>
           <div data-uk-dropdown="mode: click; offset: 5; boundary: .top-bar">
-            <div className="link" onClick={honeyside}>
-              Honeyside
+            <div className="link" onClick={mteams}>
+              mteams
               <div className="icon">
                 <FiExternalLink />
               </div>
             </div>
-            <div className="link" onClick={codeCanyon}>
-              CodeCanyon
+            <div className="link" onClick={mteamsOp}>
+              mteamsOp
               <div className="icon">
                 <FiExternalLink />
               </div>
