@@ -65,4 +65,4 @@ jobs:
         with:
           app_location: "./frontend"
           output_location: "build"
-          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          azure_static_web_apps_api_token: ${{ 8867dc18dfbaa3d9906637562215074f6bd0b58d58155402cfe8aefc89d7d2c804-915d1eb6-d5fa-4183-bd46-744150eeb93400302150525cd203 }}
